@@ -87,7 +87,7 @@ body {
             display: flex;
             align-items: center;
             justify-content: center;
-            background-color: rgba(0, 0, 0, 0.1); }
+            background-color: white; }
             body main .top .slider-container .slider-div .info-slider .content {
               display: flex;
               flex-direction: column;
